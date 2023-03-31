@@ -12,6 +12,6 @@ Por meio dos dados alguns dos produtos que tiveram vendas foram:
 ![image](https://user-images.githubusercontent.com/109659867/229238269-8a4a2983-45a9-41a9-bb5a-c1150189d7e6.png)
 
 
-Já alguns dos produtos não vendidos são:
+Já alguns dos produtos não vendidos foram:
 
 ![image](https://user-images.githubusercontent.com/109659867/229238392-822d8272-1a2f-4654-b509-6f2f593ef2ce.png)
